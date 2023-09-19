@@ -2,11 +2,13 @@
 h1{margin-bottom: 30px;
     margin-top: 30px;
     color: blueviolet;
-padding: 25px;
-border: 15px; 
+padding: 10px;
+border: 10px; border-style: solid; color: blueviolet;
+width: 300px;
+height: 25px;
 
 }
-    
+    p{width: 800px;}
  th{
     color: rgb(75, 42, 165);
  }   
@@ -17,4 +19,6 @@ border: 15px;
  #tex2{
     color: lawngreen;
  }
- 
+ h1 .centrar_tex{
+    text-align: center; justify-content: center;
+ }
