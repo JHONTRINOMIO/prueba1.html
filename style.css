@@ -4,7 +4,7 @@ h1{margin-bottom: 30px;
     color: blueviolet;
 padding: 10px;
 border: 10px; border-style: solid; color: blueviolet;
-width: 300px;
+width: 400px;
 height: 25px;
 
 }
@@ -19,6 +19,7 @@ height: 25px;
  #tex2{
     color: lawngreen;
  }
- h1 .centrar_tex{
-    text-align: center; justify-content: center;
+ .centrar{
+    text-align: center;
  }
+ .central_texto{text-align: center; justify-content: center ;}
